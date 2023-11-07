@@ -34,4 +34,4 @@ async def pilih(ctx):
     else:
         await ctx.send("Jenis sampah belum bisa dikenali")
 
-bot.run("MTE1NTgyODU1MzY2MTgwODcxMA.Gb-qAj.-MUPi--67fynmMaHJIiCt_y1Z1p0mgZ6dX7oak")
+bot.run("TOKEN")
